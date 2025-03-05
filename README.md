@@ -8,5 +8,8 @@ The Verilog module needs a 10MHz oscilator to oversample the SPI Bus in order to
 The RP2040 sends bytes in a loop which controll the LED and receives the number of received messages by the slave
 and outputs them to the console.
 
+![Screenshot](https://github.com/Dekameron55/RP-2040-SPI-BLINK/blob/main/images/SetupWokWi.jpg)
+
+
 Disclaimer
 This source code and information is provided as is, without any warranties or guarantees of performance. The author assumes no responsibility for any issues arising from its use in any system. Users should verify and test the module thoroughly before deploying it in critical applications.
