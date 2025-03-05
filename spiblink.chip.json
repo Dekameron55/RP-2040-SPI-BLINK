@@ -1,0 +1,10 @@
+{
+  "name": "spiblink",
+  "author": "Veselin",
+  "pins": [
+    "clk", "SCK", "MOSI", "MISO", "SSEL", "LED"
+
+  ],
+  
+  "controls": []
+}
